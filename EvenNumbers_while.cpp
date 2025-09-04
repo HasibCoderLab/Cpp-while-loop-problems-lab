@@ -8,7 +8,19 @@
 #include <iostream>
 using namespace std;
 int main(){
-    return 0 ;
+    int n ;
+    cout << "Enter Number " ;
+    cin>> n;
+    int i = 1;
+    while(i<=n){
+        
+        if(i%2 ==0){
+            cout << i <<" " ;
+            
+        }
+        i++;
+       
+    }
+    cout <<endl;
+ return 0 ;
 }
-
-solve 1st problem of while loop in C++"
