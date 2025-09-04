@@ -11,4 +11,4 @@ int main(){
     return 0 ;
 }
 
-solve 1st problem of while loop in C++"
+solve 1st problem of while loop in C++
